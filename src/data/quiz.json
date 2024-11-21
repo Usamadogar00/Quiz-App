@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "question": "Which phone is shown in the image?",
+        "image": "/iphone.jpg",
+        "options": [
+            "iPhone 16",
+            "Samsung Galaxy S21",
+            "Google Pixel 5",
+            "OnePlus 8"
+        ],
+        "correctAnswer": "iPhone 16"
+    },
+    {
+        "id": 2,
+        "question": "Which phone is shown in the image?",
+        "image": "/samsung.png",
+        "options": [
+            "iPhone 12",
+            "Samsung Galaxy S24",
+            "Google Pixel 5",
+            "OnePlus 8"
+        ],
+        "correctAnswer": "Samsung Galaxy S24"
+    },
+    {
+        "id": 3,
+        "question": "Which phone is shown in the image?",
+        "image": "/googlepixel.png",
+        "options": [
+            "iPhone 12",
+            "Samsung Galaxy S21",
+            "Google Pixel 9",
+            "OnePlus 8"
+        ],
+        "correctAnswer": "Google Pixel 9"
+    },
+    {
+        "id": 4,
+        "question": "Which phone is shown in the image?",
+        "image": "/onepluse.png",
+        "options": [
+            "iPhone 12",
+            "Samsung Galaxy S21",
+            "Google Pixel 5",
+            "OnePlus 12"
+        ],
+        "correctAnswer": "OnePlus 12"
+    },
+    {
+        "id": 5,
+        "question": "Which phone is shown in the image?",
+        "image": "/mi14.jpg",
+        "options": [
+            "Mi 14 Ultra",
+            "Samsung Galaxy S21",
+            "Google Pixel 5",
+            "OnePlus 8"
+        ],
+        "correctAnswer": "Mi 14 Ultra"
+    }
+]
